@@ -30,15 +30,15 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Python" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/python.svg.png" />
-<img align="left" alt="TensorFlow" width="26px" src="https://vikalp2502.github.io/vikalp2502/icon/Tensorflow.svg.png" />
-<img align="left" alt="Scikit-learn" width="26px" src="https://vikalp2502.github.io/vikalp2502/icon/scikit-learnl.svg.png" />
-<img align="left" alt="Keras" width="26px" src="https://vikalp2502.github.io/vikalp2502/icon/keras.svg.png" />
-<img align="left" alt="Numpy" width="26px" src="https://vikalp2502.github.io/vikalp2502/icon/numpy.png" />
-<img align="left" alt="Pandas" width="26px" src="https://vikalp2502.github.io/vikalp2502/icon/pandas.png" />
-<img align="left" alt="Matplotlib" width="26px" src="https://vikalp2502.github.io/vikalp2502/icon/matplotlib_logo.png" />
-<img align="left" alt="Seaborn" width="26px" src="https://vikalp2502.github.io/vikalp2502/icon/seaborn.png" />
-<img align="left" alt="SciPy" width="26px" src="https://vikalp2502.github.io/vikalp2502/icon/scipy.jpg" />
-<img align="left" alt="SymPy" width="26px" src="https://vikalp2502.github.io/vikalp2502/icon/sympy.png" />
+<img align="left" alt="TensorFlow" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/Tensorflow.svg.png" />
+<img align="left" alt="Scikit-learn" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/scikit-learnl.svg.png" />
+<img align="left" alt="Keras" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/keras.svg.png" />
+<img align="left" alt="Numpy" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/numpy.png" />
+<img align="left" alt="Pandas" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/pandas.png" />
+<img align="left" alt="Matplotlib" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/matplotlib_logo.png" />
+<img align="left" alt="Seaborn" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/seaborn.png" />
+<img align="left" alt="SciPy" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/scipy.jpg" />
+<img align="left" alt="SymPy" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/sympy.png" />
 <br />
 <br />
 <br />
