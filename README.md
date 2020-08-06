@@ -1,7 +1,7 @@
 ### Hi there, I'm Vikalp Kaushik - aka [Vikalp2502][website] 👋
 
 ## I'm a Data Scientist, Web Developer, and Student!
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a Data Science or Machine Learning Projects!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with content creators
 - 🥅 2020 Goals: Doing more technical projects
