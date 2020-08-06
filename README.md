@@ -29,7 +29,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Python" width="26px" src="https://vikalp2502.github.io/vikalp2502/icon/python.svg.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/vikalp2502/vikalp2502/icon/python.svg.png" />
 <img align="left" alt="TensorFlow" width="26px" src="https://vikalp2502.github.io/vikalp2502/icon/Tensorflow.svg.png" />
 <img align="left" alt="Scikit-learn" width="26px" src="https://vikalp2502.github.io/vikalp2502/icon/scikit-learnl.svg.png" />
 <img align="left" alt="Keras" width="26px" src="https://vikalp2502.github.io/vikalp2502/icon/keras.svg.png" />
