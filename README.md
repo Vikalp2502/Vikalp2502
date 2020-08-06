@@ -41,6 +41,7 @@
 <img align="left" alt="SymPy" width="26px" src="icon/sympy.png" />
 <br />
 <br />
+<br />
 
 ---
 
