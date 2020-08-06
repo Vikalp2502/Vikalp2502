@@ -32,13 +32,13 @@
 <img align="left" alt="Python" width="26px" src="icon/python.svg.png" />
 <img align="left" alt="TensorFlow" width="26px" src="icon/Tensorflow.svg.png" />
 <img align="left" alt="Scikit-learn" width="26px" src="icon/scikit-learnl.svg.png" />
-<img align="left" alt="Keras" width="26px" src="/icon/keras.svg.png" />
-<img align="left" alt="Numpy" width="26px" src="/icon/numpy.png" />
-<img align="left" alt="Pandas" width="26px" src="/icon/pandas.png" />
-<img align="left" alt="Matplotlib" width="26px" src="/icon/matplotlib_logo.png" />
-<img align="left" alt="Seaborn" width="26px" src="/icon/seaborn.png" />
-<img align="left" alt="SciPy" width="26px" src="/icon/scipy.jpg" />
-<img align="left" alt="SymPy" width="26px" src="/icon/sympy.png" />
+<img align="left" alt="Keras" width="26px" src="icon/keras.svg.png" />
+<img align="left" alt="Numpy" width="26px" src="icon/numpy.png" />
+<img align="left" alt="Pandas" width="26px" src="icon/pandas.png" />
+<img align="left" alt="Matplotlib" width="26px" src="icon/matplotlib_logo.png" />
+<img align="left" alt="Seaborn" width="26px" src="icon/seaborn.png" />
+<img align="left" alt="SciPy" width="26px" src="icon/scipy.jpg" />
+<img align="left" alt="SymPy" width="26px" src="icon/sympy.png" />
 <br />
 <br />
 
