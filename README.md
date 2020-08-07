@@ -57,7 +57,7 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[Vikalp Kaushik's github stats](https://github-readme-stats.vercel.app/api?username=vikalp2502)
 
 [website]: https://vikalp2502.github.io/pv2
 [twitter]: https://twitter.com/kaushik_vikalp
