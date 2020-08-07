@@ -52,7 +52,7 @@
 ### 📺 Portfolio Links
 <!-- BLOG-POST-LIST:START -->
 - [Data Science Portfolio](https://vikalp2502.github.io/DataScience_Portfolio)
-- [Web Development Portfolio](https://vikalp2502.github.io/portfoliosite)
+- [Web Development Portfolio](https://vikalp2502.github.io/pv2)
 
 <!-- BLOG-POST-LIST:END -->
 
@@ -60,7 +60,7 @@
 
 <img align="left" alt="Vikalp2502's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vikalp2502&show_icons=true&hide_border=true" />
 
-[website]: https://vikalp2502.github.io/portfoliosite
+[website]: https://vikalp2502.github.io/pv2
 [twitter]: https://twitter.com/kaushik_vikalp
 [instagram]: https://www.instagram.com/vikalp._.kaushik/
 [linkedin]: https://www.linkedin.com/in/vikalp-kaushik-99966a1ab/
