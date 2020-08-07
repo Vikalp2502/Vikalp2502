@@ -35,7 +35,7 @@
 <img align="left" alt="Keras" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/keras.svg.png" />
 <img align="left" alt="Numpy" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/numpy.png" />
 <img align="left" alt="Pandas" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/pandas.png" />
-<img align="left" alt="Matplotlib" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/matplotlib_logo.png" />
+<img align="left" alt="Matplotlib" width="32px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/matplotlib_logo.png" />
 <img align="left" alt="Seaborn" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/seaborn.png" />
 <img align="left" alt="SciPy" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/scipy.jpg" />
 <img align="left" alt="SymPy" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/sympy.png" />
@@ -46,19 +46,18 @@
 <br />
 
 
-
 ---
 
 ### 📺 Portfolio Links
 <!-- BLOG-POST-LIST:START -->
 - [Data Science Portfolio](https://vikalp2502.github.io/DataScience_Portfolio)
-- [Web Development Portfolio](https://vikalp2502.github.io/pv2)
+- [Web Development Portfolio][website]
 
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-<img align="left" alt="Vikalp2502's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vikalp2502&show_icons=true&hide_border=true" />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://vikalp2502.github.io/pv2
 [twitter]: https://twitter.com/kaushik_vikalp
