@@ -57,7 +57,7 @@
 
 ---
 
-<img align="left" alt="Vikalp Kaushik Stats" src="https://github-readme-stats.vercel.app/api?username=vikalp2502" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikalp2502" />
 
 [website]: https://vikalp2502.github.io/pv2
 [twitter]: https://twitter.com/kaushik_vikalp
