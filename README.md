@@ -50,7 +50,7 @@
 
 ### 📺 Portfolio Links
 <!-- BLOG-POST-LIST:START -->
-- [Data Science Portfolio](https://vikalp2502.github.io/DataScience_Portfolio)
+- [Data Science Portfolio](https://vikalpkaushik.netlify.app)
 - [Web Development Portfolio][website]
 
 <!-- BLOG-POST-LIST:END -->
@@ -59,7 +59,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikalp2502" />
 
-[website]: https://vikalp2502.github.io/pv2
+[website]: https://vikalp25.netlify.app
 [twitter]: https://twitter.com/kaushik_vikalp
 [instagram]: https://www.instagram.com/vikalp._.kaushik/
 [linkedin]: https://www.linkedin.com/in/vikalp-kaushik-99966a1ab/
