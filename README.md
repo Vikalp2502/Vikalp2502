@@ -3,6 +3,7 @@
 ## I'm a Data Scientist, Web Developer, and Student!
 - 🔭 I’m currently working on a Data Science or Machine Learning Projects!
 - 🌱 I’m currently learning everything 🤣
+- 📕 I'm writing blogs on medium for UX Planet.
 - 👯 I’m looking to collaborate with content creators
 - 🥅 2020 Goals: Doing more technical projects
 - ⚡ Fun fact: I love to draw sketches and painting
@@ -11,7 +12,7 @@
 
 [<img align="left" alt="web portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="vikalp | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="vikalp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="vikalp | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="vikalp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="vikalp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -31,31 +32,28 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/python.svg.png" />
-<img align="left" alt="TensorFlow" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/Tensorflow.svg.png" />
-<img align="left" alt="Scikit-learn" width="36px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/scikit-learnl.svg.png" />
-<img align="left" alt="Keras" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/keras.svg.png" />
-<img align="left" alt="Numpy" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/numpy.png" />
-<img align="left" alt="Pandas" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/pandas.png" />
-<img align="left" alt="Matplotlib" width="32px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/matplotlib_logo.png" />
-<img align="left" alt="Seaborn" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/seaborn.png" />
-<img align="left" alt="SciPy" width="32px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/scipy.jpg" />
-<img align="left" alt="SymPy" width="26px" src="https://github.com/vikalp2502/vikalp2502/blob/master/icon/sympy.png" />
-<br />
-<br />
-<br />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <br />
 <br />
 
 
 ---
 
-### 📺 Portfolio Links
+### 📘 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Now You Can Build Your Portfolio in Neumorphism UI/UX Design](https://uxplanet.org/now-you-can-build-your-portfolio-in-neumorphism-ui-ux-design-1ffaf46226f0)
+- [5 Best Landing Pages That Anyone Can Create](https://uxplanet.org/5-best-landing-pages-that-anyone-can-create-254ce1f9c91c)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 💻 Portfolio Links
+<!-- PORTFOLIO-LIST:START -->
 - [Data Science Portfolio](https://vikalpkaushik.netlify.app)
 - [Web Development Portfolio][website]
 
-<!-- BLOG-POST-LIST:END -->
+<!-- PORTFOLIO-LIST:END -->
 
 ---
 
