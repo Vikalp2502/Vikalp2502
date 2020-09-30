@@ -42,6 +42,7 @@
 
 ### 📘 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My Portfolio Website Helps Me To Get A Full Stack Internship](https://uxplanet.org/my-portfolio-website-helps-me-to-get-a-full-stack-internship-32c2f70d8a8f)
 - [Now You Can Build Your Portfolio in Neumorphism UI/UX Design](https://uxplanet.org/now-you-can-build-your-portfolio-in-neumorphism-ui-ux-design-1ffaf46226f0)
 - [5 Best Landing Pages That Anyone Can Create](https://uxplanet.org/5-best-landing-pages-that-anyone-can-create-254ce1f9c91c)
 <!-- BLOG-POST-LIST:END -->
