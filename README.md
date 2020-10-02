@@ -1,6 +1,6 @@
 ### Hi there, I'm Vikalp Kaushik - aka [Vikalp2502][website] 👋
 
-## I'm a Data Scientist, Web Developer, and Student!
+## I'm a Full Stack Web Developer, Data Scientist and Student!
 - 🔭 I’m currently working on a Data Science or Machine Learning Projects!
 - 🌱 I’m currently learning everything 🤣
 - 📕 I'm writing blogs on medium for UX Planet.
