@@ -1,12 +1,12 @@
-### Hi there, I'm Vikalp Kaushik - aka [Vikalp2502][website] 👋
+### Hi there, I'm Vikalp Kaushik - aka [Vikalp2502][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a Full Stack Web Developer, Data Scientist and Student!
-- 🔭 I’m currently working on a Data Science or Machine Learning Projects!
+## I'm a Full Stack Web Developer, Aspiring Data Scientist and Student!
+- 🔭 I’m currently working on a many Full Stack Projects!
 - 🌱 I’m currently learning everything 🤣
-- 📕 I'm writing blogs on medium for UX Planet.
-- 👯 I’m looking to collaborate with content creators
-- 🥅 2020 Goals: Doing more technical projects
-- ⚡ Fun fact: I love to draw sketches and painting
+- 📕 I'm writing blogs on medium for UX Planet Publication.
+- 👯 I’m looking to collaborate with content creators.
+- 🥅 2020 Goals: Doing more technical projects and Contribution to Open Source.
+- ⚡ Fun fact: I love to draw sketches and painting.
 
 ### Connect with me:
 
@@ -47,19 +47,23 @@
 - [Now You Can Build Your Portfolio in Neumorphism UI/UX Design](https://uxplanet.org/now-you-can-build-your-portfolio-in-neumorphism-ui-ux-design-1ffaf46226f0)
 - [5 Best Landing Pages That Anyone Can Create](https://uxplanet.org/5-best-landing-pages-that-anyone-can-create-254ce1f9c91c)
 <!-- BLOG-POST-LIST:END -->
+[More Blogs ..](https://medium.com/@vikalpkaushik99)
 
 ---
 
 ### 💻 Portfolio Links
 <!-- PORTFOLIO-LIST:START -->
+- [Full Stack Web Development Portfolio][website]
 - [Data Science Portfolio](https://vikalpkaushik.netlify.app)
-- [Web Development Portfolio][website]
 
 <!-- PORTFOLIO-LIST:END -->
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikalp2502" />
+<details>
+   <summary>:zap: Github Stats</summary>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikalp2502" />
+</details>
 
 [website]: https://vikalp25.netlify.app
 [twitter]: https://twitter.com/kaushik_vikalp
