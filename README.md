@@ -55,7 +55,7 @@
 
 ### 💻 Portfolio/ My Work
 <!-- PORTFOLIO-LIST:START -->
-<img align="left" src="https://drive.google.com/file/d/1vYCYeSKgn8HNZsZfNG0tu0YloH_G23Ps/view?usp=sharing" />
+<a href="http://github.com/vikalp2502/Web-Design-Portfolio"><img align="left" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p1.png" /></a>
 <!-- PORTFOLIO-LIST:END -->
 
 ---
