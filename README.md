@@ -53,27 +53,22 @@
 
 ---
 
-### 💻 Portfolio/ My Work
-<!-- PORTFOLIO-LIST:START -->
-<a href="http://github.com/vikalp2502/Web-Design-Portfolio"><img align="left" width="115px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p1.png" /></a>
-<a href="http://github.com/vikalp2502/AlgoSort-Sorting-Visualiser"><img align="left" width="115px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p2.png" /></a>
-<a href="http://github.com/vikalp2502/Shoes-Nike-Landing-Page"><img align="left" width="110px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p3.png" /></a>
-<a href="http://github.com/vikalp2502/PathFinding-Visualizer"><img align="left" width="110px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p4.png" /></a>
-<a href="http://github.com/vikalp2502/CODM-landing_page"><img align="left" width="110px" margin="5px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p5.png" /></a>
-<!-- PORTFOLIO-LIST:END -->
-
-<br />
-<br />
-<br />
-<br />
-<br />
-
----
-
 <details>
    <summary>:zap: Github Stats</summary>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikalp2502" />
 </details>
+
+---
+
+### 💻 Portfolio/ My Work
+<!-- PORTFOLIO-LIST:START -->
+<a href="http://github.com/vikalp2502/Web-Design-Portfolio"><img align="left" width="200px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p1.png" /></a>
+<a href="http://github.com/vikalp2502/AlgoSort-Sorting-Visualiser"><img align="left" width="200px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p2.png" /></a>
+<a href="http://github.com/vikalp2502/Shoes-Nike-Landing-Page"><img align="left" width="200px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p3.png" /></a>
+<a href="http://github.com/vikalp2502/PathFinding-Visualizer"><img align="left" width="200px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p4.png" /></a>
+<a href="http://github.com/vikalp2502/CODM-landing_page"><img align="left" width="200px" margin="5px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p5.png" /></a>
+<!-- PORTFOLIO-LIST:END -->
+
 
 [website]: https://vikalp25.netlify.app
 [twitter]: https://twitter.com/kaushik_vikalp
