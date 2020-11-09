@@ -62,6 +62,8 @@
 <a href="http://github.com/vikalp2502/CODM-landing_page"><img align="left" width="150px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p5.png" /></a>
 <!-- PORTFOLIO-LIST:END -->
 
+<br />
+<br />
 ---
 
 <details>
