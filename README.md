@@ -53,11 +53,9 @@
 
 ---
 
-### 💻 Portfolio Links
+### 💻 Portfolio/ My Work
 <!-- PORTFOLIO-LIST:START -->
-- [Full Stack Web Development Portfolio][website]
-- [Data Science Portfolio](https://vikalpkaushik.netlify.app)
-
+<img align="left" src="https://drive.google.com/file/d/1vYCYeSKgn8HNZsZfNG0tu0YloH_G23Ps/view?usp=sharing" />
 <!-- PORTFOLIO-LIST:END -->
 
 ---
