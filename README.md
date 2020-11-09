@@ -62,11 +62,11 @@
 
 ### 💻 Portfolio/ My Work
 <!-- PORTFOLIO-LIST:START -->
-<a href="http://github.com/vikalp2502/Web-Design-Portfolio"><img align="left" width="200px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p1.png" /></a>
-<a href="http://github.com/vikalp2502/AlgoSort-Sorting-Visualiser"><img align="left" width="200px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p2.png" /></a>
-<a href="http://github.com/vikalp2502/Shoes-Nike-Landing-Page"><img align="left" width="200px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p3.png" /></a>
-<a href="http://github.com/vikalp2502/PathFinding-Visualizer"><img align="left" width="200px"  src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p4.png" /></a>
-<a href="http://github.com/vikalp2502/CODM-landing_page"><img align="left" width="200px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p5.png" /></a>
+<a href="http://github.com/vikalp2502/Web-Design-Portfolio"><img align="left" width="160px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p1.png" /></a>
+<a href="http://github.com/vikalp2502/AlgoSort-Sorting-Visualiser"><img align="left" width="160px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p2.png" /></a>
+<a href="http://github.com/vikalp2502/Shoes-Nike-Landing-Page"><img align="left" width="160px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p3.png" /></a>
+<a href="http://github.com/vikalp2502/PathFinding-Visualizer"><img align="left" width="160px"  src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p4.png" /></a>
+<a href="http://github.com/vikalp2502/CODM-landing_page"><img align="left" width="160px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p5.png" /></a>
 <!-- PORTFOLIO-LIST:END -->
 
 
