@@ -68,9 +68,9 @@
 <a href="http://github.com/vikalp2502/PathFinding-Visualizer"><img align="left" width="160px"  src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p4.png" /></a>
 <a href="http://github.com/vikalp2502/CODM-landing_page"><img align="left" width="160px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p5.png" />
 </a>
-<a href="http://github.com/vikalp2502/CODM-landing_page"><img align="left" width="160px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/f7.png" />
+<a href="http://github.com/vikalp2502/Tribute_to_msd"><img align="left" width="160px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/f7.png" />
 </a>
-<a href="http://github.com/vikalp2502/CODM-landing_page"><img align="left" width="160px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/project5.png" />
+<a href="http://github.com/vikalp2502/portfolio-landing-page"><img align="left" width="160px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/project5.png" />
 </a>
 <!-- PORTFOLIO-LIST:END -->
 
