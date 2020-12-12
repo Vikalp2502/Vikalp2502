@@ -1,6 +1,8 @@
+<img src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/Screenshot%20(137).png" width="100%"/>
+
 ### Hi there, I'm Vikalp Kaushik - aka [Vikalp2502][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-  <img src="https://komarev.com/ghpvc/?username=vikalp2502&color=1DA1F2&style=for-the-badge" width="150px"/>
+<img src="https://komarev.com/ghpvc/?username=vikalp2502&color=1DA1F2&style=for-the-badge" width="150px"/>
 
 ## I'm a Full Stack Web Developer, Aspiring Data Scientist and Student!
 - 🔭 I’m currently working on a many Full Stack Projects!
@@ -46,6 +48,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Become a Successful Full Stack Developer from Scratch.](https://medium.com/dev-genius/become-a-successful-full-stack-developer-from-scratch-b2085b01b24d)
 - [My Portfolio Website Helps Me To Get A Full Stack Internship](https://uxplanet.org/my-portfolio-website-helps-me-to-get-a-full-stack-internship-32c2f70d8a8f)
+- [Now You Can Build Your Portfolio in Glassmorphism UI/UX Design](https://uxplanet.org/now-you-can-build-your-portfolio-in-glassmorphism-ui-ux-design-848599c74094)
 - [Now You Can Build Your Portfolio in Neumorphism UI/UX Design](https://uxplanet.org/now-you-can-build-your-portfolio-in-neumorphism-ui-ux-design-1ffaf46226f0)
 - [5 Best Landing Pages That Anyone Can Create](https://uxplanet.org/5-best-landing-pages-that-anyone-can-create-254ce1f9c91c)
 <!-- BLOG-POST-LIST:END -->
@@ -53,12 +56,6 @@
 
 ---
 
-<details>
-   <summary>:zap: Github Stats</summary>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikalp2502" />
-</details>
-
----
 
 ### 💻 Portfolio/ My Work
 <!-- PORTFOLIO-LIST:START -->
