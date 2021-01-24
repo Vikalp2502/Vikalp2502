@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=vikalp2502&color=1DA1F2&style=for-the-badge" width="180px"/>
 
-## I'm a Full Stack Web Developer, Aspiring Data Scientist and Student!
+## I'm a Full Stack Web Developer and Student!
 - 🔭 I’m currently working on a many Full Stack Projects!
 - 🌱 I’m currently learning everything 🤣
 - 📕 I'm writing blogs on medium for UX Planet Publication.
