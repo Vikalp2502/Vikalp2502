@@ -1,4 +1,4 @@
-<img src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/Screenshot%20(137).png" width="100%"/>
+
 
 ### Hi there, I'm Vikalp Kaushik - aka [Vikalp2502][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
