@@ -2,6 +2,8 @@
 
 ### Hi there, I'm Vikalp Kaushik - aka [Vikalp2502][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<img src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/04.png">
+
 <img src="https://komarev.com/ghpvc/?username=vikalp2502&color=1DA1F2&style=for-the-badge" width="180px"/>
 
 ## I'm a Full Stack Web Developer and Student!
