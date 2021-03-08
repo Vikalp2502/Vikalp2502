@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 📕 I'm writing blogs on medium for UX Planet Publication.
 - 👯 I’m looking to collaborate with content creators.
-- 🥅 2020 Goals: Doing more technical projects and Contribution to Open Source.
+- 🥅 2021 Goals: Doing more technical projects and Contribution to Open Source.
 - ⚡ Fun fact: I love to draw sketches and painting.
 
 ### Connect with me:
