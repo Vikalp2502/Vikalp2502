@@ -72,7 +72,7 @@
 <!-- PORTFOLIO-LIST:END -->
 
 
-[website]: https://vikalp.netlify.app
+[website]: https://shape4.netlify.app
 [twitter]: https://twitter.com/kaushik_vikalp
 [instagram]: https://www.instagram.com/vikalp._.kaushik/
 [linkedin]: https://www.linkedin.com/in/vikalp-kaushik-99966a1ab/
