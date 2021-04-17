@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQGNF9-2KSdTVw/profile-displaybackgroundimage-shrink_350_1400/0/1617444015029?e=1623888000&v=beta&t=KA3tp68VLrqVcQC0EkFRfKhTkNBQNyioH83_Azow_V4" width="100%" height="100%">
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQGNF9-2KSdTVw/profile-displaybackgroundimage-shrink_350_1400/0/1617444015029?e=1623888000&v=beta&t=KA3tp68VLrqVcQC0EkFRfKhTkNBQNyioH83_Azow_V4">
 
 ### Hi there, I'm Vikalp Kaushik - aka [Vikalp2502][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
