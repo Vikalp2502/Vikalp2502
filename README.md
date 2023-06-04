@@ -4,13 +4,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=vikalp2502&color=1DA1F2&style=for-the-badge" width="180px"/>
 
-## I'm a Full Stack Web Developer and Student!
+## I'm a Full Stack Developer and Designer!
 - 🔭 I’m currently working on a many Full Stack Projects!
 - 🌱 I’m currently learning everything 🤣
 - 📕 I'm writing blogs on medium for UX Planet Publication.
 - 👯 I’m looking to collaborate with content creators.
-- 🥅 2021 Goals: Doing more technical projects and Contribution to Open Source.
-- ⚡ Fun fact: I love to draw sketches and painting.
+- 🥅 Goals: Doing more technical projects and Contribution to Open Source.
+- ⚡ Fun fact: I love to draw sketches, painting and playing chess.
 
 ### Connect with me:
 
