@@ -72,8 +72,8 @@
 <!-- PORTFOLIO-LIST:END -->
 
 
-[website]: https://shape4.netlify.app
-[twitter]: https://twitter.com/kaushik_vikalp
+[website]: https://betterdesigning.com
+[twitter]: https://twitter.com/betterdesigning
 [instagram]: https://www.instagram.com/vikalp._.kaushik/
 [linkedin]: https://www.linkedin.com/in/vikalp-kaushik-99966a1ab/
 [medium]: https://www.medium.com/@vikalpkaushik99
